@@ -1,0 +1,5 @@
+What is the capital of Korea?;Seoul
+What is the smallest prime number?;2
+What color are bananas when are ripe?;Yellow
+What do bees make?;Honey
+How many members are there in NCT 127?;9
